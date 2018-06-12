@@ -90,4 +90,4 @@ def dataProcessing(image_dir):
 
 
 if __name__ == '__main__':
-    dataProcessing("c:\\Users\\shree\\Desktop\\MacaquePython\\MacaqueFaces") #MacaqueFaces contains the data to monkeys arranged properly. please see the directory structure
+    dataProcessing("c:\\Users\\shree\\Desktop\\Internship\\MacaquePython\\MacaqueFaces") #MacaqueFaces contains the data to monkeys arranged properly. please see the directory structure
